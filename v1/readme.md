@@ -4,7 +4,7 @@
 
 1. 安装依赖模块
 ```
-pip install r requirements.txt
+pip install -r requirements.txt
 ```
 
 2. 运行代码
